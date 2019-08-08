@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f3a6c63701fdfe4b9a93cc84f3eefd3, type: 3}
+  m_Name: Glock18
+  m_EditorClassIdentifier: 
+  Name: GLOCK-18
+  WType: 0
+  Mesh: {fileID: 4300000, guid: 9c9cf6bcef1ec48438e2596cdfc7eaeb, type: 3}
+  Material: {fileID: 2100000, guid: f353a11868187b94080e4d9a17b24454, type: 2}
+  Rotation: {x: -90, y: -90, z: 0}
+  Position: {x: 0.15, y: 0.28, z: 0.07}
+  Icon: {fileID: 10901, guid: 0000000000000000f000000000000000, type: 0}
+  Ammunition: {fileID: 1447677690562514, guid: 9185796c65377354da5ee14fd5518e14, type: 2}
+  Price: 100
+  Level: 1
+  Damage: 10
+  Description: Normal pistol, not very powerful
+  Unlocked: 1
